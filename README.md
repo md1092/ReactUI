@@ -3,7 +3,7 @@
  
  
  - Category screen
- ![Screenshot_1644682155](https://user-images.githubusercontent.com/87265183/154805486-7c502923-5916-4f6a-957a-3b63352d8e0b.png)
+ ![Screenshot_1644953437](https://user-images.githubusercontent.com/87265183/154805658-35feb97d-225b-4055-a86a-f6a00aa9166d.png)
 
 
 - Product screen
